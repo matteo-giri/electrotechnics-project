@@ -1,5 +1,5 @@
 # Transmitting information by controlling nonlinear oscillators
-by Camilloni Andrea, Caponi Luca, Giri Matteo
+Project for the electrotechincs exam at Università Politecnica delle Marche, by Camilloni Andrea, Caponi Luca, Giri Matteo.
 
 # Abstract
 
